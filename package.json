@@ -1,0 +1,30 @@
+{
+	"name": "imgoodtheme",
+	"displayName": "Im Good Theme",
+	"version": "0.0.1",
+	"publisher": "AlexECL1PSE",
+	"icon": "ImGood.png",
+	"engines": {
+		"vscode": "^1.65.2"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#141616",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Im Good Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Im_Good_Dark_Theme.json"
+			}
+		]
+	}, 
+	"repository": {
+		"directory": "none",
+		"url": "none"
+	}	
+}
