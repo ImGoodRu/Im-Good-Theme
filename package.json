@@ -1,0 +1,39 @@
+{
+	"name": "imgoodtheme",
+	"displayName": "Im Good Theme",
+	"description": "Just one more dark theme but hope you will like it.",
+	"version": "0.0.2",
+	"publisher": "AlexECL1PSE",
+	"icon": "ImGood.png",
+	"engines": {
+		"vscode": "^1.65.2"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#141616",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Im Good Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Im_Good_Dark_Theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ImGoodRu/Im-Good-Theme"
+	},
+	"__metadata": {
+		"id": "6a4b5d28-5cb7-4dcb-96d7-d4891ef56042",
+		"publisherId": "ad3bf0d6-ea17-4d0f-bcf9-193d4a2f3f49",
+		"publisherDisplayName": "AlexECL1PSE",
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1648513214159
+	}
+}
