@@ -3,7 +3,7 @@
 ----------
 
 <p align="center">
-  <img alt="Im Good Theme Preview" src="https://github.com/ImGoodRu/Im-Good-Theme/blob/main/Preview.jpg" style="border-radius: 10px;">
+  <img alt="Im Good Theme Preview" src="https://raw.githubusercontent.com/ImGoodRu/Im-Good-Theme/main/Preview.png" style="border-radius: 10px;">
 </p>
 
 ----------
